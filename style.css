@@ -230,9 +230,9 @@ header .container {
     width: 85%;
 }
 .portfolio .container .project iframe {
-    width: 480px;
+    width: 450px;
     height: 500px;
-    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3);
 }
 
 }
